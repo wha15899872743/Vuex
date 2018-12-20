@@ -45,3 +45,4 @@ Vuex
 
 			 在new Vue中 加上实例对象名
 			   store
+				 注册完毕
